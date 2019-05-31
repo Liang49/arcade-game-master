@@ -1,5 +1,4 @@
 # Frogger Game Project
-======================
 Live Demo https://liang49.github.io/arcade-game-masters/
 
 ## Summary
